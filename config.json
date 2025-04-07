@@ -1,8 +1,8 @@
 {
-	"ip": "YOUR_SERVER_IP",
-	"port": "YOUR_SERVER_PORT",
-	"version": "YOUR_SERVER_VERSION",
-	"username": "NoNameBot",
+	"ip": "092dboy.aternos.me",
+	"port": "36979",
+	"version": "1.21.5",
+	"username": "AFK",
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
